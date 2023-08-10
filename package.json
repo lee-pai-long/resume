@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "description": "My online resume",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Lee Pai Long a.k.a Saidina MOHAMED ALI",
+  "license": "Creative Commons"
+}
